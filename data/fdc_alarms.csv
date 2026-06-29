@@ -1,0 +1,6 @@
+alarm_id,timestamp,equipment_id,severity,alarm_type,description,lot_id
+ALM-1001,2026-06-26T09:40:00,BOND-01,Major,alignment,TSV 적층 정렬 오차 4.2um 허용치 초과,LOT-A231
+ALM-1002,2026-06-26T11:45:00,WB-03,Minor,temperature,와이어 본딩 온도 205C 하한 근접,LOT-A235
+ALM-1003,2026-06-26T13:20:00,FT-02,Critical,contact,Contact Test 실패율 3.8% 급증 소켓 접촉 불량 의심,LOT-A240
+ALM-1004,2026-06-26T16:00:00,CMP-05,Critical,thickness,CMP 두께 SPC 하한 이탈,LOT-A242
+ALM-1005,2026-06-26T15:10:00,BOND-01,Minor,temperature,본딩 챔버 온도 262C 상한 근접,LOT-A231
